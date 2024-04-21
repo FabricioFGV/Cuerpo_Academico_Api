@@ -36,23 +36,25 @@ http://localhost:8000/docs
 
 5. Estructura del proyecto
 
-├── app
-│   ├── __init__.py
-│   ├── main.py
-│   └── server
-│       ├── app.py
-│       ├── database.py
-│       ├── models
-│       │   ├── eventos.py
-│       │   ├── integrante.py
-│       │   ├── login.py
-│       │   └── proyecto.py
-│       └── routes
-│           ├── eventos.py
-│           ├── integrante.py
-│           ├── login.py
-│           └── proyecto.py
+.
+└── app
+    ├── __init__.py
+    ├── main.py
+    └── server
+        ├── app.py
+        ├── database.py
+        ├── models
+        │   ├── eventos.py
+        │   ├── integrante.py
+        │   ├── login.py
+        │   └── proyecto.py
+        └── routes
+            ├── eventos.py
+            ├── integrante.py
+            ├── login.py
+            └── proyecto.py
 └── requirements.txt
+
 
 
 6. Dependencias
