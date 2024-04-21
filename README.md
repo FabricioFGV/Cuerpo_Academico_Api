@@ -19,13 +19,13 @@ La API Rest para el cuerpo académico es una plataforma que ofrece un conjunto d
 
 2. Instala las dependencias necesarias:
 
-  ```Instalacion
+  ```bash Instalacion
   pip install -r requirements.txt
   ```
 
 3. Iniciar la api
 
-  ```Instalacion
+  ```bash Instalacion
   python main.py
   ```
 
