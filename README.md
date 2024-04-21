@@ -32,7 +32,7 @@ La API Rest para el cuerpo académico es una plataforma que ofrece un conjunto d
 4. Documentación
 Inicada la API, para ir a la documentación de Fast Api en el navegador web deberas usar la siguiente dirección:
 
-http://localhost:8000/docs
+   http://localhost:8000/docs
 
 5. Estructura del proyecto
 
