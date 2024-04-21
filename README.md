@@ -56,16 +56,14 @@ http://localhost:8000/docs
 └── requirements.txt
  ```
 
-
-
 6. Dependencias
 
 Dependecias usadas en requirements.txt
 
-motor
-uvicorn
-fastapi
-pydantic
-python-decouple
-
-
+| Dependencia          | Versión  |
+|----------------------|----------|
+| motor                | 3.2.0    |
+| uvicorn              |          |
+| fastapi              | 0.100.0  |
+| pydantic[email]      | 2.0.3    |
+| python-decouple      | 3.8      |
